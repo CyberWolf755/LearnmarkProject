@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: fe6c70439ee70094e975c326f8b951f6
+timeCreated: 1526155204
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arm1
+    100002: Bumber
+    100004: Console
+    100006: ConsoleBottom
+    100008: ConsoleDock
+    100010: Door
+    100012: DoorWindow
+    100014: FrontPanel
+    100016: FrontSideHatch
+    100018: //RootNode
+    100020: Handle
+    100022: Holder
+    100024: Holder01
+    100026: Holder02
+    100028: Holder03
+    100030: Inner Trim
+    100032: InnerTrim2
+    100034: LeftShell
+    100036: LeftSideHatch
+    100038: LeftSideLoadingHatch
+    100040: LowerRail
+    100042: Machine
+    100044: Motor
+    100046: PressureGauge
+    100048: Roof
+    100050: TopVent
+    100052: Trash Chute
+    400000: Arm1
+    400002: Bumber
+    400004: Console
+    400006: ConsoleBottom
+    400008: ConsoleDock
+    400010: Door
+    400012: DoorWindow
+    400014: FrontPanel
+    400016: FrontSideHatch
+    400018: //RootNode
+    400020: Handle
+    400022: Holder
+    400024: Holder01
+    400026: Holder02
+    400028: Holder03
+    400030: Inner Trim
+    400032: InnerTrim2
+    400034: LeftShell
+    400036: LeftSideHatch
+    400038: LeftSideLoadingHatch
+    400040: LowerRail
+    400042: Machine
+    400044: Motor
+    400046: PressureGauge
+    400048: Roof
+    400050: TopVent
+    400052: Trash Chute
+    2100000: No Name
+    2300000: Arm1
+    2300002: Bumber
+    2300004: Console
+    2300006: ConsoleBottom
+    2300008: ConsoleDock
+    2300010: Door
+    2300012: DoorWindow
+    2300014: FrontPanel
+    2300016: FrontSideHatch
+    2300018: Handle
+    2300020: Holder01
+    2300022: Holder02
+    2300024: Holder03
+    2300026: Inner Trim
+    2300028: InnerTrim2
+    2300030: LeftShell
+    2300032: LeftSideHatch
+    2300034: LeftSideLoadingHatch
+    2300036: LowerRail
+    2300038: Machine
+    2300040: Motor
+    2300042: PressureGauge
+    2300044: Roof
+    2300046: TopVent
+    2300048: Trash Chute
+    3300000: Arm1
+    3300002: Bumber
+    3300004: Console
+    3300006: ConsoleBottom
+    3300008: ConsoleDock
+    3300010: Door
+    3300012: DoorWindow
+    3300014: FrontPanel
+    3300016: FrontSideHatch
+    3300018: Handle
+    3300020: Holder01
+    3300022: Holder02
+    3300024: Holder03
+    3300026: Inner Trim
+    3300028: InnerTrim2
+    3300030: LeftShell
+    3300032: LeftSideHatch
+    3300034: LeftSideLoadingHatch
+    3300036: LowerRail
+    3300038: Machine
+    3300040: Motor
+    3300042: PressureGauge
+    3300044: Roof
+    3300046: TopVent
+    3300048: Trash Chute
+    4300000: ConsoleBottom
+    4300002: Console
+    4300004: Bumber
+    4300006: FrontPanel
+    4300008: PressureGauge
+    4300010: ConsoleDock
+    4300012: LeftSideHatch
+    4300014: FrontSideHatch
+    4300016: LeftSideLoadingHatch
+    4300018: TopVent
+    4300020: Motor
+    4300022: Trash Chute
+    4300024: Inner Trim
+    4300026: LowerRail
+    4300028: InnerTrim2
+    4300030: Roof
+    4300032: DoorWindow
+    4300034: Machine
+    4300036: Door
+    4300038: Holder03
+    4300040: Holder02
+    4300042: Holder01
+    4300044: Arm1
+    4300046: LeftShell
+    4300048: Handle
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
